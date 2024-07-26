@@ -22,6 +22,20 @@ $ingredient_supplementaire = readline("Veuillez saisir un ingrédient supplémen
 
 $ingrédients[] = $ingredient_supplementaire;
 
+//3. Génération de la recette
+echo "Recette de pizza : ";
+
+$Recette = "";
+
+
+
+
+
+
+
+
+
+
 
 
 
