@@ -23,9 +23,24 @@ $ingredient_supplementaire = readline("Veuillez saisir un ingrédient supplémen
 $ingrédients[] = $ingredient_supplementaire;
 
 //3. Génération de la recette
-echo "Recette de pizza : ";
+$Recette = [];
 
-$Recette = "";
+echo "Recette de pizza : " . "\n";
+
+//4. Traitement des ingrédients
+
+foreach ($ingrédients as $ingredient) {
+    echo "- ". $ingredient. "\n";
+}
+
+for($i=$actions; $i<=$actions; $actions++) {
+    echo $actions=rand(1,6). "\n";
+}
+
+
+
+
+
 
 
 
