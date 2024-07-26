@@ -20,6 +20,11 @@ $actions = ["Coupez les oignons", "Découpez les gousses d'ail", "Ajoutez la pas
 
 $ingredient_supplementaire = readline("Veuillez saisir un ingrédient supplémentaire : ");
 
+$ingrédients[] = $ingredient_supplementaire;
+
+
+
+
 
 
 
